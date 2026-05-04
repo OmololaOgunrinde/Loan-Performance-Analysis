@@ -52,6 +52,6 @@ To process and analyze the data effectively, I utilized a multi-tool pipeline:
 ## Project Files
 
 *   **[View the Complete SQL Script](Loan_Performance_SQL_Scripts/Firstmoney_SQL_Script.sql)**
-*   **[View the Case Study Presentation](Loan_Performance_Presentation/FirstMoney_Loan_Performance_Presentation.pdf)**
+*   **[View the Case Study Presentation](Loan_Performance_Presentation/FirstMoney_Loan_Performance_Presentation_slides.pdf)**
 
 ![Power BI Dashboard](Loan_Performance_Dashboard/FirstMoney_LoanPerformance_Dashboard.png)
